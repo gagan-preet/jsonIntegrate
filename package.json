@@ -1,0 +1,19 @@
+{
+  "name": "jsonIntegrate",
+  "version": "0.0.1",
+  "description": "A program that combines the JSON files available in a directory to generate a single json file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsonIntegrate",
+    "combineJson"
+  ],
+  "author": "Gagan Preet Singh <s.gagan.preet@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.5.1",
+    "fs": "0.0.2"
+  }
+}
