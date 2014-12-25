@@ -1,6 +1,6 @@
 {
   "name": "jsonIntegrate",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A program that combines the JSON files available in a directory to generate a single json file.",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,9 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^2.5.1",
-    "fs": "0.0.2"
+    "fs": "0.0.2",
+    "fs-walk": "0.0.1",
+    "lodash": "^2.4.1",
+    "path": "^0.4.9"
   }
 }
