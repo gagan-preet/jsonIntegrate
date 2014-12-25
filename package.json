@@ -1,6 +1,6 @@
 {
   "name": "json-integrate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A program that combines the JSON files available in a directory to generate a single json file.",
   "main": "index.js",
   "scripts": {
